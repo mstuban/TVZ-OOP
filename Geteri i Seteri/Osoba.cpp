@@ -37,5 +37,5 @@ void Osoba::setGodinaRodenja(int godinaRodenja)
 
 int Osoba::getGodinaRodenja() const
 {
-	return this->getGodinaRodenja;
+	return this->godinaRodenja;
 }
